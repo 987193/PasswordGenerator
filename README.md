@@ -3,6 +3,9 @@
 A simple and customizable **password generator** built using **React.js**.  
 It allows users to generate strong random passwords with options to include numbers and special characters, and easily copy them to the clipboard.
 
+
+🔗 **Live Demo:** https://eloquent-narwhal-d9df5a.netlify.app/
+
 ---
 
 ## 🚀 Features
@@ -23,3 +26,4 @@ It allows users to generate strong random passwords with options to include numb
 - **Clipboard API**
 
 ---
+
